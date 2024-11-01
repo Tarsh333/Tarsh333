@@ -1,12 +1,12 @@
  Hi there 👋
  
  
-My name is Tarsh. I am a Computer Science student at IIIT Jabalpur.
+My name is Tarsh. I am a Software Developer at PlaySimple Games.
+I make games in Flutter and Golang.
 
 
-Most of my projects are MERN stack based.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on a project which requires machine learning.
+- 🌱 I’m currently learning advanced Golang along with technologies like Kafka and Redis.
+- 💞️ I’m looking for a new job.
 - 📫 You can contact me via email at tarshtarsh333@gmail.com .
 
 <!---
